@@ -13,7 +13,7 @@ The Teacher Staff Remuneration System is intended for use by the Exam Controller
 - **Exam Committee Management**: Facilitates the creation and management of exam committees, assigning roles and responsibilities to faculty members.
 - **Remuneration Automation**: Automatically generates remuneration bills based on assigned tasks, ensuring accurate and timely payments.
 - **Role-Based Access Control**: Ensures secure and organized management of user roles, with specific permissions for Administrators, Directors, Chairpersons, and Teachers.
-- **User-Friendly Interface**: The system is designed with accessibility in mind, offering a clean and intuitive user experience for all users, including those with disabilities.
+- **User-Friendly Interface**: The system is designed with accessibility in mind, offering a clean and intuitive user experience for all users.
 
 ## Tech Stack
 
